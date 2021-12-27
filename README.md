@@ -1,4 +1,4 @@
-# FitLab is a Gym Managment System with many features.  
+# FitLab is a Gym Management System with many features.  
 
 ![Main Form](/doc/photos/MainForm.png)  
 
